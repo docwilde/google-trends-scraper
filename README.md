@@ -1,2 +1,2 @@
-# google-trends-scraper
-a library to automatically scrape data from google trends using NordVPN switcher and beautiful soup
+# trends-scraper
+a library to automatically scrape data from Google trends using NordVPN switcher and beautiful soup
